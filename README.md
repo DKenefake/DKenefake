@@ -3,8 +3,10 @@ I am Dustin Kenefake, a 3rd year phd student in the [Pistikopoulos Group](https:
 
 ### Current Open Source Projects
 * [PPOPT](https://github.com/TAMUparametric/PPOPT) - A Scalable **multiparametric programming** solver written in **Python**
-* [SmallPRNG](https://github.com/DKenefake/SmallPRNG) - A header only **PRNG** library/framework written in **C++** (Tested with [Testu01](http://simul.iro.umontreal.ca/testu01/tu01.html))
+* [SmallPRNG](https://github.com/DKenefake/SmallPRNG) - A header only extensible **PRNG** library/framework written in **C++** (Tested with [Testu01](http://simul.iro.umontreal.ca/testu01/tu01.html))
+* SmolPrng - A high performance extendable **PRNG** crate written in **Rust**
 * [SimpleDenseGurobi](https://github.com/DKenefake/SimpleDenseGurobi) - A helper package for using the **Gurobi** Solver, witten in **Python**
+
 
 ### Not So Current Projects
 * [OptimalPoly](https://github.com/DKenefake/OptimalPoly) - A numerically stable **optimal approximation of functions**, written in **Python**
