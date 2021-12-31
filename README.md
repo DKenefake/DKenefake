@@ -4,7 +4,7 @@ I am Dustin Kenefake, a 3rd year phd student in the [Pistikopoulos Group](https:
 ### Current Open Source Projects
 * [PPOPT](https://github.com/TAMUparametric/PPOPT) - A Scalable **multiparametric programming** solver written in **Python**
 * [SmallPRNG](https://github.com/DKenefake/SmallPRNG) - A header only extensible **PRNG** library/framework written in **C++** (Tested with [Testu01](http://simul.iro.umontreal.ca/testu01/tu01.html))
-* SmolPrng - A high performance extendable **PRNG** crate written in **Rust**
+* [SmolPrng](https://github.com/DKenefake/smolprng) - A high performance extendable **PRNG** crate written in **Rust**
 * [SimpleDenseGurobi](https://github.com/DKenefake/SimpleDenseGurobi) - A helper package for using the **Gurobi** Solver, witten in **Python**
 
 
@@ -27,4 +27,11 @@ Here are some ideas to get you started:
 -->
 
 ### Fun Stats Badges
-[![Dustins's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKenefake)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DKenefake" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKenefake&exclude_repo=BIRDMAn&layout=compact" />
+</a>
+
