@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Dustin Kenefake, a 3rd year phd student in the [Pistikopoulos Group](https://parametric.tamu.edu/), where I am focusing mainly on algorithms and software for optimization. Code that my group has made can be found [here](https://github.com/TAMUparametric). Find out more about my research and myself on my [website](dkenefake.github.io).
+I am Dustin Kenefake, a 3rd year phd student in the [Pistikopoulos Group](https://parametric.tamu.edu/), where I am focusing mainly on algorithms and software for optimization. Code that my group has made can be found [here](https://github.com/TAMUparametric). Find out more about my research and myself on my [website](https://dkenefake.github.io/).
 
 ### Current Open Source Projects
 * [PPOPT](https://github.com/TAMUparametric/PPOPT) - A Scalable **multiparametric programming** solver written in **Python**
