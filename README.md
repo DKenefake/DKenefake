@@ -8,6 +8,7 @@ I am Dustin Kenefake, a 4th year phd student in the [Pistikopoulos Group](https:
 * [SimpleDenseGurobi](https://github.com/DKenefake/SimpleDenseGurobi) - A helper package for using the **Gurobi** Solver, written in **Python**
 * [Durandal](https://github.com/DKenefake/durandal) - A **convex NLP solver** via successive LP technique, written in **Python**
 * [FasterFVA](https://github.com/DKenefake/fasterfva) - A **FVA** tool based on a novel algorithm, written in **Python**
+* [Etymrs](https://github.com/DKenefake/etymrs) - A Etymological analysis tool for text passages, written in  **Rust**
 ### Not So Current Projects
 * [OptimalPoly](https://github.com/DKenefake/OptimalPoly) - A numerically stable **optimal approximation of functions**, written in **Python**
 
