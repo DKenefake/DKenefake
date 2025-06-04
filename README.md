@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Dustin Kenefake, a 6th year phd student in the [Pistikopoulos Group](https://parametric.tamu.edu/), where I focus mainly on algorithms and software for optimization. Code that my group has made can be found [here](https://github.com/TAMUparametric). Find out more about my research and myself on my [website](https://dkenefake.github.io/). My hobby projects center around generating random numbers, optimization, and ray tracing.
+I am Dustin Kenefake, a Post Doc for in the [ProOptiMA group](https://www.mierapetritou.com/research). Formerly, a PhD student in the [Pistikopoulos Group](https://parametric.tamu.edu/), where I focus mainly on algorithms and software for automatic desision making. Find out more about my research and myself on my [website](https://dkenefake.github.io/). My hobby projects center around generating random number generation, optimization, and ray tracing.
 
 ### Current Open Source Projects
 * [PPOPT](https://github.com/TAMUparametric/PPOPT) - A Scalable **multiparametric programming** solver written in **Python**
